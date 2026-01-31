@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.fix_tfmgcontroller.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8",
+  "refmap": "fix_tfmgcontroller.refmap.json",
+  "plugin": "com.fix_tfmgcontroller.mixin.MixinPlugin",
+  "mixins": [
+    "tfmg.AbstractSmallEngineBlockEntityMixin",
+    "tfmg.EngineControllerBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+
