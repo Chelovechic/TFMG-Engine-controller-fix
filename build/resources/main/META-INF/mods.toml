@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+    modId="fix_tfmgcontroller"
+    version="1.0.1b"
+    displayName="Fix TFMG Controller"
+    authors="Chelovechic_(Github)"
+    description='''Fix for TFMG engine controller: add gear, custom gear ratios, clutch functionality,'''
+
+[[dependencies.fix_tfmgcontroller]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.fix_tfmgcontroller]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.fix_tfmgcontroller]]
+    modId="create"
+    mandatory=true
+    versionRange="[6.0.8,)"
+    ordering="NONE"
+    side="BOTH"

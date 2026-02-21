@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "tfmg:steel_mechanism"
+    },
+    "S": {
+      "item": "tfmg:screwdriver"
+    },
+    "C": {
+      "item": "tfmg:steel_cogwheel"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "CMC",
+    "SCS"
+  ],
+  "result": {
+    "item": "fix_tfmgcontroller:engine_controller_setting"
+  }
+}
+
