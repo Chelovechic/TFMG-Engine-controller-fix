@@ -1,7 +1,0 @@
-{
-  "itemGroup.fix_tfmgcontroller.main": "TFMG controller fix",
-  "item.fix_tfmgcontroller.engine_controller_setting": "Настройщик контроллера",
-  "gui.engine_controller_setting.title": "Настройки контроллера",
-  "message.fix_tfmgcontroller.engine_running": "Сначала выключите двигатель."
-}
-
