@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "fix_tfmgcontroller:item/engine_controller_setting_item"
-  }
-}
-
